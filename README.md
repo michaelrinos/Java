@@ -1,5 +1,5 @@
 # Java
-In class work from RIT while taking CSCI 142
+#In class work from RIT while taking CSCI 142
 | Assignment    | Grade Recieved |
 |---------------|:--------------:|
 | Intro 		|	96/100		 |
