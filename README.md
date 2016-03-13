@@ -1,5 +1,4 @@
-# Java
-#In class work from RIT while taking CSCI 142
+###In class work from RIT while taking Computer Science II
 | Assignment    | Grade Recieved |
 |---------------|:--------------:|
 | Intro 		|	96/100		 |
@@ -15,4 +14,5 @@
 | Project 2-1	| 	100/100		 |
 | Project 2-2	| 	100/100		 |
 | Project 2-3	| 	100/100		 |
+
 *Bonus awarded for completing optional part of assignment
